@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        double pearP = 2.14, appleP=3.67 , tomatoP=1.11 , bananaP = 0.95 , eggplantP= 0.95, totalcost=0;
+        double pearP = 2.14, appleP=3.67 , tomatoP=1.11 , bananaP = 0.95 , eggplantP= 5, totalcost=0;
         //products and prices
 
         System.out.println("-->> WELCOME TO PATİKA GREENGROCERY <<--"); //price list and welcome
